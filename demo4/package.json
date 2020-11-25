@@ -1,0 +1,12 @@
+{
+  "name": "demo4",
+  "author": "Roberto Aguinaga",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  },
+  "description": "An 11ty site with tags",
+  "private": true
+}
