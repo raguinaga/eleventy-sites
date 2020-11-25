@@ -1,0 +1,2 @@
+# Exclude all node-modules, yarn and package.json file will suffice
+node_modules/
